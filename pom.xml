@@ -18,7 +18,7 @@
         <jackson.version>2.15.2</jackson.version>
         <avro.version>1.11.3</avro.version>
         <json.smart.version>2.4.9</json.smart.version>
-        <json.java.version>20231013</json.java.version>
+        <json.java.version>20250517</json.java.version>
         <kafka.version>3.4.0</kafka.version>
         <log4j.version>2.20.0</log4j.version>
         <netty.version>4.1.94.Final</netty.version>
